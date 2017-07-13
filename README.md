@@ -4,6 +4,13 @@ development language: Node.js
 author: Ashish Sahu
 ---
 
+---
+platforms: Azure VM Scale Set
+development language: Node.js
+author: Ashish Sahu
+author: Ashish Sahu
+---
+
 # What does this sample do?
 
 This sample uses the Azure Service Management APIs to find out if the current VM in a VM Scale set is running the latest model of the custom image. This sample is useful in scenarios where you are using a custom image to build a VM Scale Set. Please see this link to understand this process in detail - https://msftstack.wordpress.com/2016/06/20/how-to-convert-an-azure-virtual-machine-to-a-vm-scale-set/
